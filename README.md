@@ -1,6 +1,9 @@
-This was a group project. It is located in another members repo.
+This was a full stack group project. It is located in another members repo.
 
 Link: https://github.com/Miguelxlx/COP4521-Project
+
+Python was used for the backend, while JavaScript was used for the frontend.
+An API was used to display live betting odds.
 
 # FULL STACK NBA WAGER APPLICATION
 
